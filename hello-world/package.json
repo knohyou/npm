@@ -15,5 +15,8 @@
     "url": "https://github.com/knohyou/npm/issues"
   },
   "homepage": "https://github.com/knohyou/npm#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
 }
