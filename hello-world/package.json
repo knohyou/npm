@@ -1,0 +1,19 @@
+{
+  "name": "@knohyou/hello-world",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hyunkoo",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/knohyou/npm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/knohyou/npm/issues"
+  },
+  "homepage": "https://github.com/knohyou/npm#readme",
+  "description": ""
+}
