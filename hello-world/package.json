@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/knohyou/npm/issues"
   },
-  "homepage": "https://github.com/knohyou/npm#readme"
+  "homepage": "https://github.com/knohyou/npm#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.3"
+  },
+  "devDependencies": {}
 }
