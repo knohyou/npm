@@ -7,5 +7,13 @@
   },
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "This is a test trial. hello-world.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/knohyou/npm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/knohyou/npm/issues"
+  },
+  "homepage": "https://github.com/knohyou/npm#readme"
 }
